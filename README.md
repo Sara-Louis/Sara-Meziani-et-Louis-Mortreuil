@@ -18,5 +18,15 @@ import math
 import glob
 import os
 import seaborn as sns
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+```
+
+
+```python
+product=pd.read_csv('D:\SVM\learnplatform-covid19-impact-on-digital-learning\products_info.csv', sep= ',')
+product.head()
 
 ```

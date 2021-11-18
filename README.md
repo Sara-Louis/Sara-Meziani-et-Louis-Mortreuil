@@ -31,6 +31,9 @@ product.head()
 
 ```
 
+
+
+
 ```python
 districts=pd.read_csv('D:\SVM\learnplatform-covid19-impact-on-digital-learning\districts_info.csv', sep= ',', header=0)
 districts.head()
